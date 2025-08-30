@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "00ED9F154927B72D2083D836D983757A667D4AC6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "00ED9F154927B72D2083D836D983757A667D4AC6" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C51CCFE8-E234-4B11-9D2C-3F747FDC6E08",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "00ED9F154927B72D2083D836D983757A667D4AC6" : "CommonComposablesCMP-Batch-1\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iosApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iosApp\/iosApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/shineaungkhant1\/CommonComposablesCMP-Batch-1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "00ED9F154927B72D2083D836D983757A667D4AC6"
+    }
+  ]
+}
